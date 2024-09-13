@@ -1,3 +1,16 @@
 .hi {
   color:red;
 }
+.down_arrow {
+  animation: arrow_anime 3s linear infinite;
+}
+@keyframes arrow_anime {
+  0% {
+    top: 80%;
+    opacity: 1;
+  }
+  100% {
+    top: 100%;
+    opacity: 0;
+  }
+}
