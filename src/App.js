@@ -56,7 +56,10 @@ function App() {
             <p style={{paddingLeft:'200px', fontSize:'30px'}}>아이모토는 최고의 전문 컨설턴트가 고객사의 입장에서 생각하며, 최신 트렌드 제안 및 고객사의 비즈니스 사업성공을 위하여 다양한 분야에서 서비스 하고 있습니다. 다년간의 노하우와 능동적인 커뮤니케이션을 통해 고객사의 요구사항에 적합한 결과물로 성공적인 비즈니스를 실현합니다.</p>
           </div>
         </div>
-        <div className='sec_2_contents' style={{width:'1800px', background:'blue', height:'50vh', margin:'0 auto', position:'relative', boxSizing:'border-box', border:'5px solid black'}}></div>
+        <div className='sec_2_contents' style={{width:'1800px', background:'blue', height:'50vh', margin:'0 auto', position:'relative', boxSizing:'border-box', border:'5px solid black'}}>
+          <p style={{paddingLeft:'200px', fontSize:'25px', fontWeight:'bold'}}>“정부지원사업” 아이모토가 함께 합니다.</p>
+          <p style={{paddingLeft:'200px', fontSize:'30px'}}>수출지원기반사업, 제조중소기업혁신바우처사업 외 정부지원사업도 아이모토가 함께 합니다. 고객사의 맞춤형 솔루션에 즉각적으로 대응할수 있도록 준비된 아이모토의 완성도 높은 소통체계와 각 분야의 전문가가 고객사와 성공을 함께 하고자 합니다. 팀워크, 열정, 신뢰, 창의는 아이모토가 추구하는 가치 입니다.</p>
+        </div>
       </div>
       <div className='sec_3_wraper'>
         <div className='sec_3_contents' style={{width:'1800px', background:'aqua', height:'100vh', margin:'0 auto', position:'relative', boxSizing:'border-box', border:'5px solid black'}}></div>
